@@ -8,7 +8,6 @@ Essa é a solução para [QR code component challenge on Frontend Mentor](https:
   - [Screenshot](#screenshot)
   - [Links](#links)
   - [Tecnologias utilizadas](#tecnologias-utilizadas)
-  - [Useful resources](#useful-resources)
 - [Author](#autora)
 
 
