@@ -22,7 +22,7 @@ Essa é a solução para [QR code component challenge on Frontend Mentor](https:
 
 ### Link
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Github: [Github Pages](https://keylanne-melo.github.io/qr-code-component-main/)
 
 
 ### Tecnologias Utilizadas:
