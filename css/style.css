@@ -1,0 +1,51 @@
+body{
+    font-family:'Outfit', sans-serif ;
+    max-width:1440px;
+    margin: 0 auto;
+    background-color:  #D5E1EF;
+    color: #21334B;
+}
+
+main{
+    padding: 25px;
+    justify-content: center;
+    display: flex;
+}
+
+main .cartao{
+    background-color:#FFFFFF ;
+    text-align: center;
+    gap: 15px;
+    border-radius: 15px;
+    width: 324px;
+    height: 500px;
+    margin: 15px;
+}
+
+.qrcode{
+    width:288px;
+    height: 288px;
+    border-radius: 15px;
+    margin: 16px;
+}
+
+.top{
+    margin-left: 25px;
+    margin-right: 25px;
+    font-size: 24px;
+}
+
+.text{
+    margin-top: 25px;
+    margin-right: 40px;
+    margin-left: 40px;
+    font-size: 15px;
+    color: #A5A9B4
+}
+
+footer{
+    text-align: center;
+    font-size: 11px;
+    margin-top: 35px;
+    margin-right:6px;
+}
